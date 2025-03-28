@@ -6,7 +6,7 @@ function CommentList(props) {
     <div>
       <Comment name={"멋쟁이"} comment={"내가 리액트 유저?"} />
       <Comment name={"아기사자"} comment={"즐거운 프론트 세션!!!!!!"} />
-      <Comment name={"박슬기"} comment={"리액트 첫 실습 입니다."} />
+      <Comment name={"박슬기!"} comment={"리액트 첫 실습 입니다."} />
     </div>
   );
 }
